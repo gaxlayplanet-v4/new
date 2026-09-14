@@ -8,7 +8,5 @@ keep_vars = true
 
 [vars]
 #UUID = ""
-
-PROXYIP = "cdn-b100.xn--b6gac.eu.org"
-PROXY_LIST_URL = "https://raw.githubusercontent.com/proxzero/galaxy-subdomain/refs/heads/main/PROXYIP.txt"
+PROXYIP = "icook.hk"
 DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
