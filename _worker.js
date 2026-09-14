@@ -9,7 +9,7 @@ var userID = "";                    // REQUIRED: Set UUID env variable
 // All tested & working — excludes CMLiu's infrastructure
 const proxyIPPool = [
     // 🌐 Domain-based (Round-Robin DNS — 40+ clean IPs)
-    "cdn-b100.xn--b6gac.eu.org",
+    "icook.hk",
 
     // 🟢 Hetzner IPv6 (Clean, No Logging, Stable)
     "2a01:4f8:c2c:123f:64:5:ac40:6c0a",
